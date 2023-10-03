@@ -17,12 +17,21 @@ export default function Projects() {
               <li data-target="#demo" data-slide-to="4"></li>
               <li data-target="#demo" data-slide-to="5"></li>
               <li data-target="#demo" data-slide-to="6"></li>
-              <li data-target="#demo" data-slide-to="7"></li>
+             
             </ul>
             <div class="carousel-inner">
-           
             
-              <div class="carousel-item active">
+
+            <div class="carousel-item active">
+                <img src="images/greeting-cards.jpg" alt="greeting-cards-aplication" class="carousel_style"/>
+                <div class="carousel-caption carousel_caption_bg_color">
+                  <h3>Greeting cards Application</h3>
+                  <p>made a full stack project of greeting cards application</p>
+                  <p><a href="https://github.com/anushka192001/TO_DO_LIST">link</a></p>
+              </div>
+              </div>
+            
+              <div class="carousel-item">
                 <img src="images/project_3_img.jpg" alt="to-do-list" class="carousel_style"/>
                 <div class="carousel-caption carousel_caption_bg_color">
                   <h3>TO DO LIST</h3>
@@ -44,8 +53,8 @@ export default function Projects() {
               <div class="carousel-item">
                 <img src="images/project_5_img.jpg" alt="simon-game" class="carousel_style"/>
                 <div class="carousel-caption carousel_caption_bg_color">
-                  <h3>SIMON GAME</h3>
-                  <p>created using css javascript,jquery,html,bootstrap (mobile,ipad,laptop responsive game. play game https://anushka192001.github.io/simon-game/</p>
+                  <h3>MEMORY GAME</h3>
+                  <p>created using css javascript,jquery,html,bootstrap (mobile,ipad,laptop responsive game. play game https://anushka192001.github.io/memory-game/</p>
                   <p><a href="https://github.com/anushka192001/simon-game">link</a></p>
                 </div>
               </div>

@@ -14,7 +14,7 @@ export default function Experience() {
             </div>
             <div class="col-sm-9 p-4"> 
               <h5>SWARM ROBOTICS SOCIETY IIT KHARAGPUR</h5>
-              <p>here i implemeted various DL algorithms on robotic's mechanism</p>
+              <p>developed new website of swarm robotics</p>
             </div>
         </div>
       </div> 
@@ -41,7 +41,8 @@ export default function Experience() {
             </div>
             <div class="col-sm-9 p-4"> 
               <h5>GEORGIA TECH FINANCIAL INNOVATION LAB ,U.S.A </h5>
-              <p>written an efficient code to automatically download financial data (audio and video)of nasdaq 100 companies and implemented VOLTAGE  model to extract physical inference of that data and do rudimentary analysis on it.</p>
+              <p>written an efficient code to automatically download financial data (audio and video)of nasdaq 100 companies and development of week supervision model 
+              to detect inclaim sentences with that of competitive accuracy as that of complex models like bert</p>
             </div>
         </div>
        </div> 
@@ -49,11 +50,11 @@ export default function Experience() {
        <div class="card shadow-lg mb-5 bg-white rounded mb-2">
         <div class="card-body row p-0">
             <div class="col-sm-3 p-4 experience_style">
-            <span>JULY 2022-present</span>
-              <h5>software development Research Project </h5>
+            <span>JULY 2022-DEC 2022</span>
+              <h5>BTP-1 </h5>
             </div>
             <div class="col-sm-9 p-4"> 
-              <h5>IIT kharagpur(under prof Rajib Mall)</h5>
+              <h5>IIT kharagpur(under prof Rajib Mall,department of CSE,IIT kharagpur)</h5>
               <p>create a deep learning model to generate code property graphs of code files(only javs files) and use it furthur to find attackable vulnerabilities in codes and must help in numerious software tasks such as autocorrect, code completion, buffer overflows etc.</p>
             </div>
         </div>
@@ -63,12 +64,12 @@ export default function Experience() {
        <div class="card shadow-lg mb-5 bg-white rounded mb-2">
         <div class="card-body row p-0">
             <div class="col-sm-3 p-4 experience_style">
-            <span>APRIL 2022-JULY 2022</span>
-              <h5>remote SOFTWARE DEVELOPER intern</h5>
+            <span>JAN 2023-MAY 2023</span>
+              <h5>BTP-2</h5>
             </div>
             <div class="col-sm-9 p-4"> 
-              <h5>EPICENTER NEWS ,MUMBAI</h5>
-              <p>worked with frontend libraries like bootstrap react,js react-native and backend libraries node.js,express.js and databases like Mongodb,SQL etc.</p>
+              <h5>IIT kharagpur(under prof Debasis Samanta,department of CSE,IIT kharagpur)</h5>
+              <p>development of speller interface for handicapped people by using the concept of brain signals corrosponding to colors.</p>
             </div>
         </div>
        </div> 
